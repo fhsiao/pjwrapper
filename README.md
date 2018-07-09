@@ -21,7 +21,7 @@ To do:
   See pjwrapper (POC): https://github.com/fkhsiao/pjwrapper 
 - [x] Simple UI
 - [] Enable Appium testing framework
-- [x] Compile pjsip with android-ndk-r17b
+- [x] Compile pjsip with NDK r17b, Cmake only , CMakeLists.txt
 - [] Enable ssl
 - [] Enable video (bcg729) 
 - [] Slack integration
